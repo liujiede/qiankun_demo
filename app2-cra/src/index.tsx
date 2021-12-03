@@ -10,7 +10,8 @@ export let emit: any = {
 };
 
 const render = () => {
-  ReactDOM.render(<App />, document.getElementById("root-cra"));
+  
+  console.log(ReactDOM.render(<App />, document.getElementById("root-cra")));
 };
 
 // 在不是qiankun的情况下独立运行

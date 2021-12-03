@@ -5,7 +5,7 @@ import styles from './index.less';
 export default () => {
   return (
     <div>
-      <h1 className={styles.title}>app1 umi page1</h1>
+      <h1 className={styles.title}>app1 umi page1 mfus</h1>
       <Link to="/">back</Link>
     </div>
   );

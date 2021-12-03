@@ -26,7 +26,6 @@
     "eject": "react-app-rewired eject"
   },
   "eslintConfig": {
-    "extends": "react-app"
   },
   "browserslist": {
     "production": [
